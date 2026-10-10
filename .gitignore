@@ -1,0 +1,22 @@
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE settings
+.vscode/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Local datasets and generated outputs
+data/*
+outputs/*
